@@ -1,4 +1,4 @@
-public class Job02 {
+public class Voiture {
     static String Brand="Toyota";
     static String Color="White";
     static int Speed=0;
